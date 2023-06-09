@@ -7,7 +7,6 @@ public class MeetAnAgent {
 
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
-        System.out.print("Please enter your identifier number: ");
         int input = scanner.nextInt();
 
         if (input == PASSWORD) {
